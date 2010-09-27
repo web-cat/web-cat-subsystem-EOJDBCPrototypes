@@ -28,8 +28,9 @@ package org.webcat;
  *  resources end up being included as a live framework by various parts
  *  of WebObjects.
  *
- *  @author  stedwar2
- *  @version $Id$
+ *  @author  Stephen Edwards
+ *  @author  Last changed by $Author$
+ *  @version $Revision$, $Date$
  */
 public class EOJDBCPrototypes
 {
